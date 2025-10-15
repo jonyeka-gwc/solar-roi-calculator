@@ -1,0 +1,79 @@
+prefix,region,yield
+AB,North Scotland,850
+DD,North Scotland,850
+EH,Scotland East,900
+G,Scotland West,900
+FK,Central Scotland,900
+KA,Scotland West,900
+KY,Scotland East,900
+DG,South Scotland,925
+TD,South Scotland,925
+NE,North East,950
+DL,North East,950
+SR,North East,950
+TS,North East,950
+FY,North West (Blackpool),950
+PR,North West (Preston),950
+BB,North West (Blackburn),950
+BL,North West (Bolton),950
+OL,Greater Manchester,950
+M,Greater Manchester,950
+SK,Greater Manchester / Cheshire East,950
+WA,North West (Warrington),950
+WN,North West (Wigan),950
+L,Merseyside (Liverpool),950
+CH,Merseyside / Cheshire West,950
+CW,Cheshire (Crewe/Nantwich),950
+LA,North West (Lancaster / South Cumbria),940
+CA,Cumbria (Carlisle),925
+HD,Yorkshire Border (Huddersfield),950
+HX,Yorkshire Border (Halifax),950
+DN,Yorkshire Border (Doncaster),950
+B,Midlands,1000
+CV,Midlands,1000
+DE,Midlands,1000
+LE,Midlands,1000
+NG,Midlands,1000
+ST,Midlands,1000
+SY,Midlands,1000
+WS,Midlands,1000
+WV,Midlands,1000
+OX,South East,1050
+BN,South East,1050
+GU,South East,1050
+RH,South East,1050
+PO,South East,1050
+RG,South East,1050
+HP,South East,1050
+SL,South East,1050
+ME,South East,1050
+CT,South East,1050
+SO,South East,1050
+EX,South West,1100
+TR,South West,1100
+PL,South West,1100
+TA,South West,1100
+TQ,South West,1100
+BS,South West,1100
+SN,South West,1100
+SP,South West,1100
+E,London East,1075
+EC,Central London (East Central),1075
+N,London North,1075
+NW,London North West,1075
+SE,London South East,1075
+SW,London South West,1075
+W,London West,1075
+WC,Central London (West Central),1075
+HA,Greater London (Harrow),1075
+EN,Greater London (Enfield),1075
+IG,Greater London (Ilford),1075
+RM,Greater London (Romford),1075
+DA,Greater London (Dartford),1075
+BR,Greater London (Bromley),1075
+SM,Greater London (Sutton),1075
+KT,Greater London (Kingston),1075
+CR,Greater London (Croydon),1075
+UB,Greater London (Uxbridge),1075
+TW,Greater London (Twickenham),1075
+WD,Greater London (Watford),1075
