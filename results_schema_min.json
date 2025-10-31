@@ -1,0 +1,73 @@
+{
+  "solar_summary": {
+    "title": "☀️ Your Solar Savings",
+    "subtitle": "Here's what your solar panel system could deliver — in simple terms:",
+    "tagline": "Use your own power. Save on your bills. Earn from what's left.",
+    "metrics": {
+      "annual_generation": {
+        "label": "Annual Generation",
+        "unit": "kWh"
+      },
+      "use": {
+        "label": "Use (in your home)",
+        "unit": "%"
+      },
+      "save": {
+        "label": "Save (on bills)",
+        "unit": "£"
+      },
+      "earn": {
+        "label": "Earn (sold back to grid)",
+        "unit": "£"
+      }
+    },
+    "summary_block": {
+      "heading": "✅ Summary",
+      "text": "Your {{panel_count}}-panel system ({{system_size}} kWp) will generate about {{annual_generation}} kWh per year — roughly {{usage_percent}}% of your current electricity use.\n\n🔹 **Use:** {{self_use_percent}}% of that power (≈ {{self_use_kwh}} kWh) goes straight into your home, saving you around **£{{self_use_savings}}** each year.\n🔹 **Sell:** The rest ({{sold_back_percent}}%) is sold back to your supplier, earning about **£{{export_earnings}}**.\n\n💰 **Total annual benefit:** **£{{annual_benefit}}**\n💡 **Estimated installation cost:** **£{{install_cost}}**\n🌤️ **Simple payback:** Around **{{payback_years}} years** before your system starts earning pure profit."
+    }
+  },
+
+  "charts": {
+    "usage_vs_generation": {
+      "title": "Your Energy Use vs Solar Generation",
+      "x_labels": {
+        "usage": "Your Current Usage",
+        "solar": "Estimated Solar Generation"
+      },
+      "y_label": "kWh per year"
+    },
+    "self_use_vs_export": {
+      "title": "Use | Save | Earn Breakdown",
+      "legend": {
+        "self_use": "Use",
+        "export": "Earn"
+      }
+    }
+  },
+
+  "solar_detail": {
+    "title": "📈 Your Solar in Detail",
+    "fields": {
+      "annual_generation": "Annual Generation (kWh)",
+      "self_use_kwh": "Used in Home (kWh)",
+      "self_use_savings": "Bill Savings (£)",
+      "export_earnings": "Export Earnings (£)",
+      "annual_benefit": "Total Annual Benefit (£)",
+      "install_cost": "Installation Cost (£)",
+      "payback_years": "Payback Period (Years)"
+    }
+  },
+
+  "tooltips": {
+    "annual_generation": "The total electricity your solar panels produce each year.",
+    "use": "The share of your solar power you use directly — for lights, washing, cooking and other daytime use.",
+    "save": "The money you save each year by using your own electricity instead of buying from the grid.",
+    "earn": "The money you earn for extra power your panels generate and sell automatically to your energy supplier.",
+    "sold_back_percent": "When your panels produce more electricity than you use, the surplus is sold back to your supplier via the Smart Export Guarantee."
+  },
+
+  "cta": {
+    "label": "☀️ Reveal My Solar Potential",
+    "subtext": "See how much you could save and earn each year."
+  }
+}
